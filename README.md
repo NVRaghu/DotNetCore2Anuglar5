@@ -1,0 +1,2 @@
+# DotNetCore2Anuglar5
+This blog that will help developing ASP.net Core 2 WebApi app with Angular.io (version 5). This is done with try to Maximize use of Dotnet Cli and Angular Cli from Scratch. For styling we can use Google's Material Design or Bootstrap. I will Include details of how to include do it with Bootstrap in futur. for now we will go with Awesome Google's Material design to design the UI, We will evolve this to PWA.
